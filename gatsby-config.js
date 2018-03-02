@@ -20,12 +20,12 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
+      name: 'Nemmar Ramos',
+      email: 'neu.nmr@gmail.com',
+      mobile: '+63 977-333-0397',
       twitter: '#',
-      github: '#',
-      rss: '#',
+      github: 'https://github.com/nemmarramos',
+      linkedin: 'https://www.linkedin.com/in/nemmar-ramos-6a09143a/',
       vk: '#'
     }
   },

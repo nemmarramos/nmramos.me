@@ -22,10 +22,10 @@ module.exports = {
     author: {
       name: 'Nemmar Ramos',
       email: 'neu.nmr@gmail.com',
-      mobile: '+63 977-333-0397',
+      telegram: '#',
       twitter: '#',
       github: 'https://github.com/nemmarramos',
-      linkedin: 'https://www.linkedin.com/in/nemmar-ramos-6a09143a/',
+      rss: '#',
       vk: '#'
     }
   },
